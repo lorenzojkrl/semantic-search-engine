@@ -1,0 +1,5 @@
+/node_modules
+/coverage
+.early.*
+.env
+.DS_Store
